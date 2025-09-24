@@ -67,7 +67,7 @@ main {
     @apply fixed top-0 left-0 w-full flex justify-between items-center md:p-16 p-5 z-[100];
   }
   .gradient-title {
-    @apply md:text-[8rem] text-[5rem] font-round-bold !font-extrabold uppercase md:leading-[7rem] leading-[4.5rem] text-center bg-gradient-to-r from-pink-400 via-red-400 to-orange-400 bg-clip-text text-transparent;
+    @apply md:text-[5rem] text-[3rem] font-round-bold !font-extrabold uppercase md:leading-[5rem] leading-[4.5rem] text-center bg-gradient-to-r from-pink-400 via-red-400 to-orange-400 bg-clip-text text-transparent;
   }
   .hero-section {
     @apply w-dvw h-dvh relative overflow-hidden;
