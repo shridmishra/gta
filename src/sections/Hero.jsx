@@ -54,7 +54,7 @@ const Hero = () => {
       </div>
 
       <div className="fake-logo-wrapper">
-        <img src="/images/big-hero-text.svg" className="overlay-logo" />
+        <img src="/images/big-hero-text.svg" className="overlay-logo -mt-8" />
       </div>
 
       <ComingSoon />

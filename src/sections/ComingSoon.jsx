@@ -2,13 +2,13 @@ const ComingSoon = () => {
   return (
     <section className="entrance-message">
       <div className="h-full col-center gap-10">
-        <img src="/images/logo.webp" alt="logo" className="entrance-logo" />
+        <img src="/images/logo.webp" alt="logo" className="entrance-logo -mt-8" />
 
-        <div className="text-wrapper">
+        {/* <div className="text-wrapper">
           <h3 className="gradient-title">
             Coming <br /> May 26th <br /> 2026
           </h3>
-        </div>
+        </div> */}
 
         <div className="flex-center gap-10">
           <img src="/images/ps-logo.svg" className="md:w-32 w-20" />
